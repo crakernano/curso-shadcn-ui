@@ -1,6 +1,12 @@
+# shadcn/UI
+
+![https://ui.shadcn.com/](shadcn)
+
 ## Sobre este repositorio
 
-Este es el repositorio con las prácticas creadas en el curso de devtalles cobre [shadcn](https://cursos.devtalles.com/courses/take/shadcn-ui) que se puede encontrar en [devtalles](https://cursos.devtalles.com/).
+Este es el repositorio con las prácticas creadas en el curso de devtalles [shadcn](https://cursos.devtalles.com/courses/take/shadcn-ui) que se puede encontrar en [devtalles](https://cursos.devtalles.com/).  
+
+[Repositorio del curso](https://github.com/DevTalles-corp/shadcn-dashboard)
 
 ## Getting Started
 
@@ -76,8 +82,22 @@ Permite que el carrusel se mueva de forma automatica
 npm install embla-carousel-autoplay --save
 ```
 
+## Tablas
+
 ### Tanstack
+
+![Data table](./doc/data_table.PNG)
 
 ```bash
 npm install @tanstack/react-table
 ```
+
+#### Features
+
+- Paginación
+- Ordenación
+- Filtros
+- Columnas visibles
+- Selección multiple
+
+## Formularios

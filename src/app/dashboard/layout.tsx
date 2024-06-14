@@ -29,6 +29,7 @@ const links = [
   { name: "toast", href: "toast" },
   { name: "tabs", href: "tabs" },
   { name: "Tablas", href: "data-table" },
+  { name: "Formulario", href: "form" },
 ];
 
 export default function DashboardLayout({
